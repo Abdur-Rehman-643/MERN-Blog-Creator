@@ -1,0 +1,2 @@
+Frontened : https://react-blogs-apps-frontened.netlify.app/
+Backend: https://coconut-leather-tomato.glitch.me/
